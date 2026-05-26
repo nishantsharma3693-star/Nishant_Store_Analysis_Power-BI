@@ -46,4 +46,4 @@ Through this project, I learned:
 * Creating interactive reports and visualizations
 * Improving business decision-making using analytics
 
-`PowerBI` `DataAnalytics` `Dashboard` `BusinessIntelligence` `DataVisualization` `EcommerceDashboard` `DAX` `PowerQuery` `SalesAnalysis`
+`PowerBI` `DataAnalytics` `Dashboard` `BusinessIntelligence` `DataVisualization` `EcommerceDashboard`  `SalesAnalysis`
